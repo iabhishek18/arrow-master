@@ -1,5 +1,11 @@
 # Arrow Master
 
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
+
+</div>
+
 A fast-paced arrow-key reflex game built with Next.js, TypeScript, and Tailwind CSS. Hit the right arrows before time runs out, chain combos, and climb the levels — with eight visual themes and special arrow types that keep every round different.
 
 ## Gameplay
@@ -30,6 +36,16 @@ A fast-paced arrow-key reflex game built with Next.js, TypeScript, and Tailwind 
 | Language | TypeScript |
 | Styling | Tailwind CSS + styled-jsx |
 | State | React hooks + localStorage |
+
+## 📸 Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+### Gameplay — Arrows Incoming
+
+![Gameplay — Arrows Incoming](screenshots/gameplay.png)
 
 ## Getting Started
 
